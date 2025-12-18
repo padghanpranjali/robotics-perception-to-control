@@ -9,3 +9,8 @@ This project incrementally builds:
 - 3D geometry reasoning
 - Object state estimation
 - Closed-loop control in simulation
+### Day 1 — RGB-D Data Exploration
+- Loaded and visualized RGB and depth images
+- Verified alignment between color and depth
+- Inspected depth value ranges and data types
+- Established sensor-level understanding of RGB-D inputs
